@@ -1,0 +1,23 @@
+MOBILE APPLICATION DEVELOPMENT PROPOSAL
+
+Project Overview:
+Development of a cross-platform mobile application for Android and iOS users.
+
+Scope of Work:
+- Android application
+- iOS application
+- User registration
+- User authentication
+- Push notifications
+- Payment integration
+- Backend API
+
+Deliverables:
+- Android application
+- iOS application
+- Backend API
+- Payment integration
+- Testing and deployment
+
+Typical Timeline:
+6 to 8 weeks

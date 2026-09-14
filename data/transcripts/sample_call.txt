@@ -1,0 +1,23 @@
+Sales Representative: Hello, thank you for joining the call today. Could you tell me about your company and what you are looking for?
+
+Client: Sure. My name is Arun Kumar, and I represent ABC Retail Technologies. We run an online retail business.
+
+Sales Representative: What challenges are you currently facing?
+
+Client: Our existing e-commerce website is outdated and slow. Customers sometimes face problems while making payments, and our team manually manages orders.
+
+Sales Representative: What would you like the new system to include?
+
+Client: We need a modern and responsive e-commerce website. It should include a product catalogue, customer registration and login, a shopping cart, secure payment gateway integration, and an admin dashboard to manage products and orders.
+
+Sales Representative: Do you have a preferred timeline?
+
+Client: Yes. We would like the project to be completed within approximately six weeks.
+
+Sales Representative: Do you have a budget range in mind?
+
+Client: Our approximate budget is around ₹2,00,000.
+
+Sales Representative: Great. We will prepare a proposal based on your requirements, including the website development, payment integration, and admin dashboard.
+
+Client: That sounds good. Please send the proposal as soon as possible.

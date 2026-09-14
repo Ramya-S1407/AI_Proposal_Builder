@@ -1,0 +1,21 @@
+CRM SYSTEM DEVELOPMENT PROPOSAL
+
+Project Overview:
+Development of a customer relationship management system to help businesses manage customers, leads, and sales activities.
+
+Scope of Work:
+- Customer management
+- Lead tracking
+- Sales dashboard
+- Reports and analytics
+- User authentication
+
+Deliverables:
+- Functional CRM system
+- Customer management module
+- Lead management module
+- Sales dashboard
+- Reports and analytics
+
+Typical Timeline:
+5 to 7 weeks
